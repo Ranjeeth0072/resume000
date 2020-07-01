@@ -1,0 +1,84 @@
+*{
+    background-color: lightgrey;
+}
+#pa{
+font-size: 50px;
+text-align: center;
+color:black;
+text-decoration: underline;
+}
+
+ header p{
+ text-align: left;
+ font-size: 25px;
+ color:red;
+ margin-left:20px ;
+ padding: 6px;
+}
+
+img{
+ margin-right: 100px;
+ height:140px;
+ width:140px;
+ border-style: solid;
+ border-color:black;  
+}
+
+.he{
+font-size: 30px;
+text-align: left;
+color:blue;
+text-decoration: underline;
+margin-left:10px ;
+}
+
+.pp{
+    text-indent: 40px;
+    font-size: 20px;
+}
+
+#customer th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+table, th, td ,tr{
+    border:1.0px  solid black;
+    padding: 20px;
+    margin-left:100px ;
+    border-collapse: collapse;
+    text-align: center;
+    font-size:20px ;   
+}
+
+ul{
+    list-style-type: disc;
+    font-size: 20px;
+}
+
+li ,a{
+    font-size: 20px;
+    margin-left: 20px;
+    padding: 6px;
+}
+
+pre{
+    font-size: 20px;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.article ul li{
+    list-style-type: square;
+    padding: 10px;
+    margin-left:200px ;
+}
+a:active{
+    background-color: seagreen;
+}
+a:hover{
+    background-color: turquoise;
+}
